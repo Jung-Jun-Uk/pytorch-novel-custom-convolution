@@ -1,0 +1,3 @@
+# ninja log v5
+1	15221	1608452813727949260	/home/jju/Projects/Research/adaptive_conv/models/MODULE/DYD_CONV_CUDA/build/temp.linux-x86_64-3.7/dydconv_optim_kernel.o	3b209d53b9154821
+0	15427	1608452813935949342	/home/jju/Projects/Research/adaptive_conv/models/MODULE/DYD_CONV_CUDA/build/temp.linux-x86_64-3.7/dydconv_optim.o	d3df324903e9201
