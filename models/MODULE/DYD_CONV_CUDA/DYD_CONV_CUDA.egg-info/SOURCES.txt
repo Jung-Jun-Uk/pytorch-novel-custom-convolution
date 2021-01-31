@@ -1,7 +1,0 @@
-dydconv_optim.cpp
-dydconv_optim_kernel.cu
-setup.py
-DYD_CONV_CUDA.egg-info/PKG-INFO
-DYD_CONV_CUDA.egg-info/SOURCES.txt
-DYD_CONV_CUDA.egg-info/dependency_links.txt
-DYD_CONV_CUDA.egg-info/top_level.txt
